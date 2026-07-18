@@ -2,7 +2,7 @@
   ═══════════════════════════════════════════════════════════
   MIJAEL SPACE — README de perfil (versión GitHub-compatible)
   Paleta: escala de grises pura. Sin colores.
-  Reemplaza TU_USUARIO y 🔧[...] por tus datos reales.
+  Reemplaza Mijael-Lujan-Gandarillas y 🔧[...] por tus datos reales.
   ═══════════════════════════════════════════════════════════
 -->
 
@@ -21,9 +21,9 @@
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-0c0d0e?style=for-the-badge&logo=github&logoColor=c7c8ca)](https://github.com/TU_USUARIO)
-[![Twitter](https://img.shields.io/badge/Twitter-0c0d0e?style=for-the-badge&logo=x&logoColor=c7c8ca)](https://twitter.com/TU_USUARIO)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0c0d0e?style=for-the-badge&logo=linkedin&logoColor=c7c8ca)](https://linkedin.com/in/TU_USUARIO)
+[![GitHub](https://img.shields.io/badge/GitHub-0c0d0e?style=for-the-badge&logo=github&logoColor=c7c8ca)](https://github.com/Mijael-Lujan-Gandarillas)
+[![Twitter](https://img.shields.io/badge/Twitter-0c0d0e?style=for-the-badge&logo=x&logoColor=c7c8ca)](https://twitter.com/Mijael-Lujan-Gandarillas)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0c0d0e?style=for-the-badge&logo=linkedin&logoColor=c7c8ca)](https://linkedin.com/in/Mijael-Lujan-Gandarillas)
 [![Mail](https://img.shields.io/badge/Mail-0c0d0e?style=for-the-badge&logo=gmail&logoColor=c7c8ca)](mailto:tu@email.com)
 
 </div>
@@ -122,12 +122,12 @@ El proyecto que muestras primero cuando alguien pregunta qué haces.
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&hide_border=true&bg_color=00000000&title_color=c7c8ca&text_color=8b8c8f&icon_color=58595c" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&hide_border=true&bg_color=00000000&title_color=c7c8ca&text_color=8b8c8f" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Mijael-Lujan-Gandarillas&show_icons=true&hide_border=true&bg_color=00000000&title_color=c7c8ca&text_color=8b8c8f&icon_color=58595c" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mijael-Lujan-Gandarillas&layout=compact&hide_border=true&bg_color=00000000&title_color=c7c8ca&text_color=8b8c8f" />
 
 <br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&hide_border=true&background=00000000&ring=8b8c8f&fire=c7c8ca&currStreakLabel=c7c8ca&sideLabels=8b8c8f&dates=58595c" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mijael-Lujan-Gandarillas&hide_border=true&background=00000000&ring=8b8c8f&fire=c7c8ca&currStreakLabel=c7c8ca&sideLabels=8b8c8f&dates=58595c" />
 
 </div>
 
@@ -139,7 +139,7 @@ El proyecto que muestras primero cuando alguien pregunta qué haces.
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mijael-Lujan-Gandarillas/Mijael-Lujan-GandarillasO/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mijael-Lujan-Gandarillas/Mijael-Lujan-Gandarillas/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mijael-Lujan-Gandarillas/Mijael-Lujan-Gandarillas/output/github-contribution-grid-snake.svg" />
   <img alt="contribution snake" src="https://raw.githubusercontent.com/Mijael-Lujan-Gandarillas/Mijael-Lujan-Gandarillas/output/github-contribution-grid-snake.svg" width="100%"/>
 </picture>
@@ -154,7 +154,7 @@ El proyecto que muestras primero cuando alguien pregunta qué haces.
 `08` system_status
 
 ![Status](https://img.shields.io/badge/status-online-0c0d0e?style=flat-square&logoColor=c7c8ca)
-![Visitors](https://komarev.com/ghpvc/?username=TU_USUARIO&color=2b2b2b&style=flat-square&label=visitors)
+![Visitors](https://komarev.com/ghpvc/?username=Mijael-Lujan-Gandarillas&color=2b2b2b&style=flat-square&label=visitors)
 
 <sub>end_of_transmission_ · mijael space</sub>
 
@@ -185,7 +185,7 @@ El proyecto que muestras primero cuando alguien pregunta qué haces.
   subirlo al repo y referenciarlo), pero es 100% viable si lo quieres.
 
   SOBRE EL SNAKE (sección 07):
-  Necesita que actives un GitHub Action en tu repo TU_USUARIO/TU_USUARIO
+  Necesita que actives un GitHub Action en tu repo Mijael-Lujan-Gandarillas/Mijael-Lujan-Gandarillas
   (Settings > Actions > General > "Read and write permissions") y que
   agregues el workflow de Platane/snk. Puedo generarte ese archivo
   cuando quieras.

@@ -91,7 +91,7 @@
 <div align="center">
 
 <!-- 🔧 Este widget requiere un GitHub Action (te explico abajo cómo activarlo) -->
-<img src="https://raw.githubusercontent.com/TU_USUARIO/TU_USUARIO/output/github-contribution-grid-snake-dark.svg" />
+<img src="https://raw.githubusercontent.com/Mijael-Lujan-Gandarillas/output/github-contribution-grid-snake-dark.svg" />
 
 </div>
 

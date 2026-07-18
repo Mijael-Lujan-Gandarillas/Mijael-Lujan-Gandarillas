@@ -1,187 +1,189 @@
 <!--
   ═══════════════════════════════════════════════════════════
-  PERFIL DE GITHUB "
-  Reemplaza TODO lo que esté entre 🔧[...] por tus datos reales.
-  Guía completa de qué es cada sección al final del archivo.
+  MIJAEL SPACE — README de perfil (versión GitHub-compatible)
+  Paleta: escala de grises pura. Sin colores.
+  Reemplaza TU_USUARIO y 🔧[...] por tus datos reales.
   ═══════════════════════════════════════════════════════════
 -->
 
 <div align="center">
 
-<!-- 🔧 Banner superior animado (capsule-render). Cambia color, texto y "type" -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:E100FF&height=220&section=header&text=Hola,%20soy%20🔧[TU%20NOMBRE]&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=🔧[Tu%20rol%20o%20frase]&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=140&section=header&text=MIJAEL%20SPACE&fontSize=38&fontColor=c7c8ca&animation=fadeIn&fontAlignY=55" width="100%"/>
 
-<!-- 🔧 Texto animado tipo "escribiendo" (readme-typing-svg) -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Desarrollador+Backend+%F0%9F%92%BB;Apasionado+por+el+Open+Source+%F0%9F%8C%8D;Aprendiendo+algo+nuevo+cada+d%C3%ADa+%F0%9F%9A%80&font=Fira+Code&center=true&width=500&height=40&color=E100FF&vCenter=true&size=22" alt="Typing SVG" />
-</a>
-
-<br/>
-
-<!-- 🔧 Badges de redes sociales -->
-<a href="https://twitter.com/🔧TU_USUARIO" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-</a>
-<a href="https://linkedin.com/in/🔧TU_USUARIO" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:🔧tu@email.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://🔧tuportfolio.com" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
+<img src="https://readme-typing-svg.demolab.com/?lines=%3E+booting+mijael_os...;%3E+establishing+deep-space+uplink...;%3E+welcome+to+MIJAEL+SPACE_&font=JetBrains+Mono&center=true&width=520&height=70&color=8b8c8f&vCenter=true&size=15&pause=1200" alt="boot sequence" />
 
 </div>
 
-<br/>
+<br>
 
-## 🧑‍💻 Sobre mí
-
-<img align="right" width="260" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
-
-- 🔭 Actualmente trabajando en **🔧[proyecto actual]**
-- 🌱 Aprendiendo **🔧[tecnología]**
-- 👯 Buscando colaborar en **🔧[tipo de proyecto]**
-- 💬 Pregúntame sobre **🔧[tus temas fuertes]**
-- ⚡ Dato curioso: **🔧[algo divertido sobre ti]**
-
-<br clear="right"/>
-
-## 🛠️ Stack tecnológico
+<!-- ============ 02 · CONNECT ============ -->
+### `02` connect_with_me
 
 <div align="center">
 
-<!-- 🔧 skillicons.dev — edita la lista de skills separadas por coma -->
-<img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,python,java,go,docker,kubernetes,aws,postgres,mongodb,git,linux&theme=dark" />
+[![GitHub](https://img.shields.io/badge/GitHub-0c0d0e?style=for-the-badge&logo=github&logoColor=c7c8ca)](https://github.com/TU_USUARIO)
+[![Twitter](https://img.shields.io/badge/Twitter-0c0d0e?style=for-the-badge&logo=x&logoColor=c7c8ca)](https://twitter.com/TU_USUARIO)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0c0d0e?style=for-the-badge&logo=linkedin&logoColor=c7c8ca)](https://linkedin.com/in/TU_USUARIO)
+[![Mail](https://img.shields.io/badge/Mail-0c0d0e?style=for-the-badge&logo=gmail&logoColor=c7c8ca)](mailto:tu@email.com)
 
 </div>
 
-<br/>
+<br>
 
-## 📊 Estadísticas
+<!-- ============ 03 · ABOUT ============ -->
+### `03` about_me
+
+```
+root@mijael:~$ whoami
+```
+
+Estudié **Ingeniería Informática** y desde el primer "Hello World" me obsesionó entender qué pasa detrás de la pantalla. Hoy reparto mis noches entre terminales y telescopios: de día ordeno sistemas, de noche busco patrones en el cielo. Creo que el código y las constelaciones tienen algo en común — ambos son estructuras invisibles hasta que alguien traza las líneas correctas.
 
 <div align="center">
 
-<!-- 🔧 Reemplaza "TU_USUARIO" en las 3 imágenes siguientes -->
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=radical&hide_border=true" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=radical&hide_border=true" />
+**Frontend Designer**
+<br>
+Next.js / TypeScript
+<br>
+Amante del espacio profundo
+<br>
+Curioso de sistemas **Linux**
+<br>
+Construyendo cosas a las 3 AM
+<br>
+Café > Sueño
 
 </div>
 
-<br/>
+<br>
 
-## 🏆 Trofeos
+<!-- ============ 04 · TECHNOLOGIES ============ -->
+### `04` technologies
 
 <div align="center">
 
-<!-- 🔧 Reemplaza TU_USUARIO -->
-<img src="https://github-profile-trophy.vercel.app/?username=TU_USUARIO&theme=radical&no-frame=true&row=1&column=6" />
+![JS](https://img.shields.io/badge/-JavaScript-0c0d0e?style=flat-square&logo=javascript&logoColor=8b8c8f)
+![TS](https://img.shields.io/badge/-TypeScript-0c0d0e?style=flat-square&logo=typescript&logoColor=8b8c8f)
+![React](https://img.shields.io/badge/-React-0c0d0e?style=flat-square&logo=react&logoColor=8b8c8f)
+![Next](https://img.shields.io/badge/-Next.js-0c0d0e?style=flat-square&logo=nextdotjs&logoColor=8b8c8f)
+![Node](https://img.shields.io/badge/-Node.js-0c0d0e?style=flat-square&logo=nodedotjs&logoColor=8b8c8f)
+![Python](https://img.shields.io/badge/-Python-0c0d0e?style=flat-square&logo=python&logoColor=8b8c8f)
+![Docker](https://img.shields.io/badge/-Docker-0c0d0e?style=flat-square&logo=docker&logoColor=8b8c8f)
+![Linux](https://img.shields.io/badge/-Linux-0c0d0e?style=flat-square&logo=linux&logoColor=8b8c8f)
+![Git](https://img.shields.io/badge/-Git-0c0d0e?style=flat-square&logo=git&logoColor=8b8c8f)
+![Postgres](https://img.shields.io/badge/-PostgreSQL-0c0d0e?style=flat-square&logo=postgresql&logoColor=8b8c8f)
+![AWS](https://img.shields.io/badge/-AWS-0c0d0e?style=flat-square&logo=amazonaws&logoColor=8b8c8f)
+![Vim](https://img.shields.io/badge/-Vim-0c0d0e?style=flat-square&logo=vim&logoColor=8b8c8f)
 
 </div>
 
-<br/>
+<br>
 
-## 📈 Actividad de contribuciones (Snake Game)
+<!-- ============ 05 · PROJECTS ============ -->
+### `05` featured_transmissions
+
+<table>
+<tr><td width="40"><b>01</b></td>
+<td>
+
+**🔧[Nombre del proyecto uno]**
+<br>
+Descripción corta de qué resuelve este proyecto y por qué es interesante.
+<br>
+`Next.js` `TypeScript` `Postgres` · [ver código →](#)
+
+</td></tr>
+<tr><td width="40"><b>02</b></td>
+<td>
+
+**🔧[Nombre del proyecto dos]**
+<br>
+Otra línea explicando el problema que ataca o el reto técnico que tuvo.
+<br>
+`Python` `FastAPI` `Docker` · [ver código →](#)
+
+</td></tr>
+<tr><td width="40"><b>03</b></td>
+<td>
+
+**🔧[Nombre del proyecto tres]**
+<br>
+El proyecto que muestras primero cuando alguien pregunta qué haces.
+<br>
+`React` `Node.js` `Redis` · [ver código →](#)
+
+</td></tr>
+</table>
+
+<br>
+
+<!-- ============ 06 · STATISTICS ============ -->
+### `06` statistics
 
 <div align="center">
 
-<!-- 🔧 Este widget requiere un GitHub Action (te explico abajo cómo activarlo) -->
-<img src="https://raw.githubusercontent.com/Mijael-Lujan-Gandarillas/output/github-contribution-grid-snake-dark.svg" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&hide_border=true&bg_color=00000000&title_color=c7c8ca&text_color=8b8c8f&icon_color=58595c" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&hide_border=true&bg_color=00000000&title_color=c7c8ca&text_color=8b8c8f" />
+
+<br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&hide_border=true&background=00000000&ring=8b8c8f&fire=c7c8ca&currStreakLabel=c7c8ca&sideLabels=8b8c8f&dates=58595c" />
 
 </div>
 
-<br/>
+<br>
 
-## 🚀 Proyectos destacados
+<!-- ============ 07 · CONTRIBUTION MAP ============ -->
+### `07` contribution_map
 
 <div align="center">
 
-<!-- 🔧 github-readme-stats también genera "pin cards" de repos individuales -->
-<a href="https://github.com/TU_USUARIO/repo-1">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=TU_USUARIO&repo=repo-1&theme=radical&hide_border=true" />
-</a>
-<a href="https://github.com/TU_USUARIO/repo-2">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=TU_USUARIO&repo=repo-2&theme=radical&hide_border=true" />
-</a>
+<img src="https://raw.githubusercontent.com/TU_USUARIO/TU_USUARIO/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
 </div>
 
-<br/>
+<br>
 
+<!-- ============ 08 · SYSTEM STATUS ============ -->
 <div align="center">
 
-<!-- 🔧 Contador de visitas -->
-<img src="https://komarev.com/ghpvc/?username=TU_USUARIO&color=blueviolet&style=for-the-badge&label=Visitas+al+perfil" />
+`08` system_status
 
-<br/><br/>
+![Status](https://img.shields.io/badge/status-online-0c0d0e?style=flat-square&logoColor=c7c8ca)
+![Visitors](https://komarev.com/ghpvc/?username=TU_USUARIO&color=2b2b2b&style=flat-square&label=visitors)
 
-<!-- Banner inferior (footer) -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:E100FF&height=120&section=footer" width="100%"/>
+<sub>end_of_transmission_ · mijael space</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=90&section=footer" width="100%"/>
 
 </div>
 
 <!--
   ═══════════════════════════════════════════════════════════
-  📖 GUÍA RÁPIDA — QUÉ ES CADA COSA Y CÓMO ACTIVARLA
+  📖 NOTAS DE LA VERSIÓN GITHUB vs. EL MOCKUP HTML
   ═══════════════════════════════════════════════════════════
 
-  1) BANNER (capsule-render):
-     - Servicio gratuito que genera SVGs animados sin necesidad de cuenta.
-     - Puedes cambiar "type" por: wave, waving, soft, rounded, transparent...
-     - Puedes cambiar colores en "color=0:HEX,100:HEX" (gradiente).
-     - Documentación: https://github.com/kyechan99/capsule-render
+  QUÉ SE MANTIENE IGUAL:
+  - Boot log tipeando de verdad (readme-typing-svg SÍ anima en GitHub).
+  - Escala de grises exacta en badges, íconos y stats (usando los
+    parámetros de color de cada servicio, no un filtro CSS).
+  - Estructura por secciones numeradas 02-08.
 
-  2) TEXTO ANIMADO (readme-typing-svg):
-     - Genera el efecto "escribiendo..." que ves en muchos perfiles top.
-     - Cambia "lines=" separando frases con ";" (usa %20 en vez de espacios
-       o %2B para "+", los espacios se codifican como + o %20).
-     - Generador visual: https://readme-typing-svg.demolab.com
+  QUÉ NO SE PUEDE REPLICAR TAL CUAL:
+  - El canvas de estrellas parpadeando + estrellas fugaces (requiere JS).
+  - El radar girando en el hero (requeriría un SVG animado custom).
 
-  3) BADGES (shields.io):
-     - Generador de insignias de colores. Cambia "logo=" por el nombre del
-       ícono (twitter, linkedin, gmail, discord, instagram, youtube...).
-     - https://shields.io
+  ALTERNATIVA "FASE 2" SI QUIERES ESE NIVEL DE DETALLE:
+  Se puede generar un SVG propio (no un <canvas>, sino un <svg> con
+  animación SMIL/CSS nativa) que simule el starfield y el radar, y
+  GitHub SÍ renderiza ese tipo de animación porque es la misma técnica
+  que usa "readme-typing-svg". Es más trabajo (hay que generarlo,
+  subirlo al repo y referenciarlo), pero es 100% viable si lo quieres.
 
-  4) SKILLICONS:
-     - Iconos de tecnologías en una sola imagen, sin gastar múltiples
-       peticiones. Lista completa de iconos disponibles en:
-       https://skillicons.dev
-
-  5) ESTADÍSTICAS (github-readme-stats):
-     - Requiere solo tu nombre de usuario, es 100% automático.
-     - Puedes cambiar "theme=radical" por otros temas: dark, tokyonight,
-       merko, gruvbox, dracula, etc.
-     - Repo: https://github.com/anuraghazra/github-readme-stats
-
-  6) RACHA DE CONTRIBUCIONES (streak-stats):
-     - Muestra tu racha actual y más larga de commits.
-     - https://github.com/DenverCoder1/github-readme-streak-stats
-
-  7) TROFEOS (github-profile-trophy):
-     - Medallas automáticas según tus stars, PRs, seguidores, etc.
-     - https://github.com/ryo-ma/github-profile-trophy
-
-  8) SNAKE GAME (contribution snake):
-     - Este es el único que requiere configuración manual:
-       a) En tu repo TU_USUARIO/TU_USUARIO, ve a Settings > Actions >
-          General y habilita "Read and write permissions".
-       b) Crea el archivo .github/workflows/snake.yml con la acción
-          "Platane/snk" (te puedo generar ese archivo si quieres).
-       c) Se ejecutará automáticamente y generará el SVG animado.
-     - Repo: https://github.com/Platane/snk
-
-  9) CONTADOR DE VISITAS (komarev):
-     - Cuenta cuántas veces se ha visto tu perfil. Automático, solo con
-       tu usuario.
-
-  ═══════════════════════════════════════════════════════════
-  SIGUIENTE PASO SUGERIDO:
-  Reemplaza cada 🔧[...] y cada "TU_USUARIO" por tus datos reales,
-  luego pégalo en el README del repo que se llama igual que tu usuario.
+  SOBRE EL SNAKE (sección 07):
+  Necesita que actives un GitHub Action en tu repo TU_USUARIO/TU_USUARIO
+  (Settings > Actions > General > "Read and write permissions") y que
+  agregues el workflow de Platane/snk. Puedo generarte ese archivo
+  cuando quieras.
   ═══════════════════════════════════════════════════════════
 -->

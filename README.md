@@ -138,7 +138,7 @@ El proyecto que muestras primero cuando alguien pregunta qué haces.
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/TU_USUARIO/TU_USUARIO/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/Mijael-Lujan-Gandarillas/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
 </div>
 

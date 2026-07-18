@@ -18,10 +18,10 @@ jobs:
       - name: generate snake svg (light + dark grayscale palettes)
         uses: Platane/snk@v3
         with:
-          github_user_name: ${{ github.repository_owner }}
+          github_user_name: Mijael-Lujan-Gandarillas
           outputs: |
-            dist/github-contribution-grid-snake.svg?color_snake=%231a1a1a&color_dots=%23e4e4e4,%23b8b9ba,%238b8c8f,%2358595c,%231a1a1a
-            dist/github-contribution-grid-snake-dark.svg?color_snake=%23ffffff&color_dots=%233a3b3d,%2358595c,%23838487,%23b0b1b4,%23f1f1f2
+            dist/github-contribution-grid-snake.svg?color_snake=#1a1a1a&color_dots=#e4e4e4,#b8b9ba,#8b8c8f,#58595c,#1a1a1a
+            dist/github-contribution-grid-snake-dark.svg?color_snake=#ffffff&color_dots=#3a3b3d,#58595c,#838487,#b0b1b4,#f1f1f2
 
       - name: push svg to output branch
         uses: crazy-max/ghaction-github-pages@v4

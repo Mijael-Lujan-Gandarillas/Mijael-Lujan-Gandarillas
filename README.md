@@ -134,7 +134,7 @@ El proyecto que muestras primero cuando alguien pregunta qué haces.
 <br>
 
 <!-- ============ 07 · CONTRIBUTION MAP ============ -->
-### `07` contribution_map
+### `07` Commit Timeline
 
 <div align="center">
 

@@ -31,17 +31,21 @@
 
 ### ▪ whoami
 
-Programo porque me gusta romper cosas y después entender por qué se rompieron. Crecí con *The Pragmatic Programmer* en el escritorio y un pato de goma junto al teclado que sigue ahí. Combino café, terminal y demasiadas pestañas de Stack Overflow abiertas para construir cosas que, la mayoría de las veces, funcionan.
+Construyo sistemas, leo más de lo necesario y tengo la mala costumbre de querer entender cómo funciona todo. Me gustan las cosas que tienen una lógica detrás, ideas bien explicadas, el código que envejece con dignidad y esos pequeños detalles que separan algo que simplemente funciona de algo que fue hecho con intención
 
 <div align="center">
 
-**Frontend Designer**
+**Backend lov(s)er**
 <br>
 Next.js / TypeScript
 <br>
-<i>The Pragmatic Programmer</i>, edición desgastada
+<i>Pragmatic Programmer</i>
 <br>
-47 pestañas de Stack Overflow abiertas
+API primero, interfaz después
+<br>
+HTTP 200 = felicidad
+<br>
+La base de datos nunca olvida
 <br>
 Café > Sueño
 <br>

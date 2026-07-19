@@ -14,7 +14,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=6e6f73&height=2" width="100%"/>
 
-### ▪ Connect
+### ▪ Connect with me!
 
 <div align="center">
 

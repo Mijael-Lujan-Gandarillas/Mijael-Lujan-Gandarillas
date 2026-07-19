@@ -4,7 +4,7 @@
   ═══════════════════════════════════════════════════════════
 -->
 
-<div align="center">
+<!--<div align="center">-->
 
 <img src=".github/src/1.png" width="480"/>
 

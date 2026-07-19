@@ -4,9 +4,9 @@
   ═══════════════════════════════════════════════════════════
 -->
 
-<!--<div align="center">-->
+<div align="center">
 
-<img src=".github/src/1.png" width="100%"/>
+<img src=".github/src/1.png" width="480"/>
 
 <br><br>
 
@@ -37,7 +37,7 @@
 
 ### ▪ whoami
 
-Aprendí a programar por pura curiosidad y me quedé por la adicción a entender sistemas que nadie más quiere tocar. A veces abro un repo heredado y por un segundo entiendo el vértigo de asomarse a algo que no deberías comprender del todo. Sigo un manual de supervivencia que no escribieron pensando en mí, pero igual funciona. Y cuando algo no compila a las 3 AM, se lo cuento a un pato de goma — nunca me ha delatado.
+Programo porque me gusta romper cosas y después entender por qué se rompieron. Crecí con *The Pragmatic Programmer* en el escritorio y un pato de goma junto al teclado que sigue ahí. Combino café, terminal y demasiadas pestañas de Stack Overflow abiertas para construir cosas que, la mayoría de las veces, funcionan.
 
 <div align="center">
 
@@ -45,13 +45,13 @@ Aprendí a programar por pura curiosidad y me quedé por la adicción a entender
 <br>
 Next.js / TypeScript
 <br>
-Manual de supervivencia: releído más de una vez
+<i>The Pragmatic Programmer</i>, edición desgastada
 <br>
-Debugger profesional de patos de goma
-<br>
-Mis servidores casi siempre obedecen
+47 pestañas de Stack Overflow abiertas
 <br>
 Café > Sueño
+<br>
+<code>git commit -m "funciona, no preguntes por qué"</code>
 
 </div>
 
@@ -140,7 +140,7 @@ Café > Sueño
 
 ### ▪ Transmissions
 
-
+<sub>proyectos de los que estoy orgulloso</sub>
 
 <br>
 
@@ -174,8 +174,8 @@ El proyecto que muestras primero cuando alguien pregunta qué haces.
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Mijael-Lujan-Gandarillas&show_icons=true&hide_border=true&bg_color=00000000&title_color=c7c8ca&text_color=8b8c8f&icon_color=58595c" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mijael-Lujan-Gandarillas&layout=compact&hide_border=true&bg_color=00000000&title_color=c7c8ca&text_color=8b8c8f" />
+<img height="165" src=".github/src/stats.svg" />
+<img height="165" src=".github/src/top-langs.svg" />
 
 <br>
 

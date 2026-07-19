@@ -35,7 +35,7 @@ jobs:
       - name: generate streak card (grayscale)
         uses: DenverCoder1/github-readme-streak-stats@main
         with:
-          options: user=Mijael-Lujan-Gandarillas&hide_border=true&background=00000000&ring=8b8c8f&fire=c7c8ca&currStreakLabel=c7c8ca&sideLabels=8b8c8f&sideNums=c7c8ca&dates=58595c&disable_animations=true
+          options: user=Mijael-Lujan-Gandarillas&hide_border=true&background=00000000&ring=8b8c8f&fire=c7c8ca&currStreakLabel=c7c8ca&currStreakNum=c7c8ca&sideLabels=8b8c8f&sideNums=c7c8ca&dates=58595c&disable_animations=true
           path: .github/src/streak.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 

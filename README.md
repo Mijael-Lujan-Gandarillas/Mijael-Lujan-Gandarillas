@@ -6,6 +6,10 @@
 
 <div align="center">
 
+<img src=".github/src/1.png" width="480"/>
+
+<br><br>
+
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=140&section=header&text=SIGNAL%20ACQUIRED&fontSize=36&fontColor=c7c8ca&animation=fadeIn&fontAlignY=55" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com/?lines=%3E+initiating+deep-space+profile...;%3E+calibrating+grayscale+filters...;%3E+signal+acquired_&font=JetBrains+Mono&center=true&width=520&height=70&color=8b8c8f&vCenter=true&size=15&pause=1200" alt="boot sequence" />
@@ -33,7 +37,7 @@
 
 ### ▪ whoami
 
-Le debo mi curiosidad a Asimov y mis pesadillas de arquitectura a Lovecraft — cada vez que abro un legacy codebase ajeno, entiendo mejor a sus criaturas indescriptibles. Aprendí a programar leyendo *The Pragmatic Programmer* como manual de supervivencia, y hoy resuelvo la mitad de mis bugs hablándole a un pato de goma que guarda mejor los secretos que cualquier gestor de contraseñas.
+Aprendí a programar por pura curiosidad y me quedé por la adicción a entender sistemas que nadie más quiere tocar. A veces abro un repo heredado y por un segundo entiendo el vértigo de asomarse a algo que no deberías comprender del todo. Sigo un manual de supervivencia que no escribieron pensando en mí, pero igual funciona. Y cuando algo no compila a las 3 AM, se lo cuento a un pato de goma — nunca me ha delatado.
 
 <div align="center">
 
@@ -41,11 +45,11 @@ Le debo mi curiosidad a Asimov y mis pesadillas de arquitectura a Lovecraft — 
 <br>
 Next.js / TypeScript
 <br>
-Devoto de <i>The Pragmatic Programmer</i>
+Manual de supervivencia: releído más de una vez
 <br>
 Debugger profesional de patos de goma
 <br>
-Mis servidores obedecen las 3 leyes (a veces)
+Mis servidores casi siempre obedecen
 <br>
 Café > Sueño
 

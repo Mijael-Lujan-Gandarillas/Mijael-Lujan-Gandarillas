@@ -6,7 +6,13 @@
 
 <div align="center">
 
-<img src=".github/src/1.png" width="100%"/>
+<img src=".github/src/1.png" width="480"/>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=140&section=header&text=SIGNAL%20ACQUIRED&fontSize=36&fontColor=c7c8ca&animation=fadeIn&fontAlignY=55" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com/?lines=%3E+initiating+deep-space+profile...;%3E+calibrating+grayscale+filters...;%3E+signal+acquired_&font=JetBrains+Mono&center=true&width=520&height=70&color=8b8c8f&vCenter=true&size=15&pause=1200" alt="boot sequence" />
 
 </div>
 
@@ -14,7 +20,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=6e6f73&height=2" width="100%"/>
 
-### ▪ Connect with me!
+### ▪ Connect with me
 
 <div align="center">
 
@@ -135,6 +141,7 @@ Café > Sueño
 
 <code>git commit -m "last commit?"</code>
 
+
 <br>
 
 **[ 01 ]  🔧Nombre del proyecto uno**
@@ -172,7 +179,7 @@ El proyecto que muestras primero cuando alguien pregunta qué haces.
 
 <br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mijael-Lujan-Gandarillas&hide_border=true&background=00000000&ring=8b8c8f&fire=c7c8ca&currStreakLabel=c7c8ca&sideLabels=8b8c8f&dates=58595c" />
+<img src=".github/src/streak.svg" />
 
 </div>
 

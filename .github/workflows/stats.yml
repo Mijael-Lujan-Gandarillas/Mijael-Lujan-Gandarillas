@@ -17,7 +17,7 @@ jobs:
       - uses: actions/checkout@v4
 
       - name: generate stats card (grayscale)
-        uses: readme-tools/github-readme-stats-action@v1
+        uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
           options: username=Mijael-Lujan-Gandarillas&show_icons=true&hide_border=true&bg_color=00000000&title_color=c7c8ca&text_color=8b8c8f&icon_color=58595c
@@ -25,7 +25,7 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: generate top languages card (grayscale)
-        uses: readme-tools/github-readme-stats-action@v1
+        uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
           options: username=Mijael-Lujan-Gandarillas&layout=compact&hide_border=true&bg_color=00000000&title_color=c7c8ca&text_color=8b8c8f

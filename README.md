@@ -51,7 +51,6 @@ Next.js / TypeScript
 <br>
 Café > Sueño
 <br>
-<code>git commit -m "funciona, no preguntes por qué"</code>
 
 </div>
 
@@ -140,7 +139,7 @@ Café > Sueño
 
 ### ▪ Transmissions
 
-<sub>proyectos de los que estoy orgulloso</sub>
+<code>git commit -m "minor changes, nothing important . . ."</code>
 
 <br>
 

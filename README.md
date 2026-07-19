@@ -1,23 +1,22 @@
 <!--
   ═══════════════════════════════════════════════════════════
-  MIJAEL SPACE — README de perfil (versión GitHub-compatible)
-  Paleta: escala de grises pura. Sin colores.
-  Reemplaza Mijael-Lujan-Gandarillas y 🔧[...] por tus datos reales.
+  MIJAEL SPACE — README de perfil (v2, grayscale, sin nombre quemado)
   ═══════════════════════════════════════════════════════════
 -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=140&section=header&text=MIJAEL%20SPACE&fontSize=38&fontColor=c7c8ca&animation=fadeIn&fontAlignY=55" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=140&section=header&text=SIGNAL%20ACQUIRED&fontSize=36&fontColor=c7c8ca&animation=fadeIn&fontAlignY=55" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com/?lines=%3E+booting+mijael_os...;%3E+establishing+deep-space+uplink...;%3E+welcome+to+MIJAEL+SPACE_&font=JetBrains+Mono&center=true&width=520&height=70&color=8b8c8f&vCenter=true&size=15&pause=1200" alt="boot sequence" />
+<img src="https://readme-typing-svg.demolab.com/?lines=%3E+initiating+deep-space+profile...;%3E+calibrating+grayscale+filters...;%3E+signal+acquired_&font=JetBrains+Mono&center=true&width=520&height=70&color=8b8c8f&vCenter=true&size=15&pause=1200" alt="boot sequence" />
 
 </div>
 
 <br>
 
-<!-- ============ 02 · CONNECT ============ -->
-### `02` connect_with_me
+<img src="https://capsule-render.vercel.app/api?type=rect&color=6e6f73&height=2" width="100%"/>
+
+### ▪ Connect
 
 <div align="center">
 
@@ -30,14 +29,11 @@
 
 <br>
 
-<!-- ============ 03 · ABOUT ============ -->
-### `03` about_me
+<img src="https://capsule-render.vercel.app/api?type=rect&color=6e6f73&height=2" width="100%"/>
 
-```
-root@mijael:~$ whoami
-```
+### ▪ whoami
 
-Estudié **Ingeniería Informática** y desde el primer "Hello World" me obsesionó entender qué pasa detrás de la pantalla. Hoy reparto mis noches entre terminales y telescopios: de día ordeno sistemas, de noche busco patrones en el cielo. Creo que el código y las constelaciones tienen algo en común — ambos son estructuras invisibles hasta que alguien traza las líneas correctas.
+Le debo mi curiosidad a Asimov y mis pesadillas de arquitectura a Lovecraft — cada vez que abro un legacy codebase ajeno, entiendo mejor a sus criaturas indescriptibles. Aprendí a programar leyendo *The Pragmatic Programmer* como manual de supervivencia, y hoy resuelvo la mitad de mis bugs hablándole a un pato de goma que guarda mejor los secretos que cualquier gestor de contraseñas.
 
 <div align="center">
 
@@ -45,11 +41,11 @@ Estudié **Ingeniería Informática** y desde el primer "Hello World" me obsesio
 <br>
 Next.js / TypeScript
 <br>
-Amante del espacio profundo
+Devoto de <i>The Pragmatic Programmer</i>
 <br>
-Curioso de sistemas **Linux**
+Debugger profesional de patos de goma
 <br>
-Construyendo cosas a las 3 AM
+Mis servidores obedecen las 3 leyes (a veces)
 <br>
 Café > Sueño
 
@@ -57,68 +53,120 @@ Café > Sueño
 
 <br>
 
-<!-- ============ 04 · TECHNOLOGIES ============ -->
-### `04` technologies
+<img src="https://capsule-render.vercel.app/api?type=rect&color=6e6f73&height=2" width="100%"/>
+
+### ▪ Stack
 
 <div align="center">
 
-![JS](https://img.shields.io/badge/-JavaScript-0c0d0e?style=flat-square&logo=javascript&logoColor=8b8c8f)
-![TS](https://img.shields.io/badge/-TypeScript-0c0d0e?style=flat-square&logo=typescript&logoColor=8b8c8f)
-![React](https://img.shields.io/badge/-React-0c0d0e?style=flat-square&logo=react&logoColor=8b8c8f)
-![Next](https://img.shields.io/badge/-Next.js-0c0d0e?style=flat-square&logo=nextdotjs&logoColor=8b8c8f)
-![Node](https://img.shields.io/badge/-Node.js-0c0d0e?style=flat-square&logo=nodedotjs&logoColor=8b8c8f)
-![Python](https://img.shields.io/badge/-Python-0c0d0e?style=flat-square&logo=python&logoColor=8b8c8f)
-![Docker](https://img.shields.io/badge/-Docker-0c0d0e?style=flat-square&logo=docker&logoColor=8b8c8f)
-![Linux](https://img.shields.io/badge/-Linux-0c0d0e?style=flat-square&logo=linux&logoColor=8b8c8f)
-![Git](https://img.shields.io/badge/-Git-0c0d0e?style=flat-square&logo=git&logoColor=8b8c8f)
-![Postgres](https://img.shields.io/badge/-PostgreSQL-0c0d0e?style=flat-square&logo=postgresql&logoColor=8b8c8f)
-![AWS](https://img.shields.io/badge/-AWS-0c0d0e?style=flat-square&logo=amazonaws&logoColor=8b8c8f)
-![Vim](https://img.shields.io/badge/-Vim-0c0d0e?style=flat-square&logo=vim&logoColor=8b8c8f)
+<table>
+<tr>
+<td align="center">
+
+[![JS](https://img.shields.io/badge/-JavaScript-0c0d0e?style=for-the-badge&logo=javascript&logoColor=8b8c8f)](#)
+
+</td>
+<td align="center">
+
+[![TS](https://img.shields.io/badge/-TypeScript-0c0d0e?style=for-the-badge&logo=typescript&logoColor=8b8c8f)](#)
+
+</td>
+<td align="center">
+
+[![React](https://img.shields.io/badge/-React-0c0d0e?style=for-the-badge&logo=react&logoColor=8b8c8f)](#)
+
+</td>
+<td align="center">
+
+[![Next](https://img.shields.io/badge/-Next.js-0c0d0e?style=for-the-badge&logo=nextdotjs&logoColor=8b8c8f)](#)
+
+</td>
+</tr>
+<tr>
+<td align="center">
+
+[![Node](https://img.shields.io/badge/-Node.js-0c0d0e?style=for-the-badge&logo=nodedotjs&logoColor=8b8c8f)](#)
+
+</td>
+<td align="center">
+
+[![Python](https://img.shields.io/badge/-Python-0c0d0e?style=for-the-badge&logo=python&logoColor=8b8c8f)](#)
+
+</td>
+<td align="center">
+
+[![Docker](https://img.shields.io/badge/-Docker-0c0d0e?style=for-the-badge&logo=docker&logoColor=8b8c8f)](#)
+
+</td>
+<td align="center">
+
+[![Linux](https://img.shields.io/badge/-Linux-0c0d0e?style=for-the-badge&logo=linux&logoColor=8b8c8f)](#)
+
+</td>
+</tr>
+<tr>
+<td align="center">
+
+[![Git](https://img.shields.io/badge/-Git-0c0d0e?style=for-the-badge&logo=git&logoColor=8b8c8f)](#)
+
+</td>
+<td align="center">
+
+[![Postgres](https://img.shields.io/badge/-PostgreSQL-0c0d0e?style=for-the-badge&logo=postgresql&logoColor=8b8c8f)](#)
+
+</td>
+<td align="center">
+
+[![AWS](https://img.shields.io/badge/-AWS-0c0d0e?style=for-the-badge&logo=amazonaws&logoColor=8b8c8f)](#)
+
+</td>
+<td align="center">
+
+[![Vim](https://img.shields.io/badge/-Vim-0c0d0e?style=for-the-badge&logo=vim&logoColor=8b8c8f)](#)
+
+</td>
+</tr>
+</table>
 
 </div>
 
 <br>
 
-<!-- ============ 05 · PROJECTS ============ -->
-### `05` featured_transmissions
+<img src="https://capsule-render.vercel.app/api?type=rect&color=6e6f73&height=2" width="100%"/>
 
-<table>
-<tr><td width="40"><b>01</b></td>
-<td>
+### ▪ Transmissions
 
-**🔧[Nombre del proyecto uno]**
+<sub>proyectos de los que estoy orgulloso</sub>
+
 <br>
-Descripción corta de qué resuelve este proyecto y por qué es interesante.
-<br>
-`Next.js` `TypeScript` `Postgres` · [ver código →](#)
 
-</td></tr>
-<tr><td width="40"><b>02</b></td>
-<td>
+**[ 01 ]  🔧Nombre del proyecto uno**
 
-**🔧[Nombre del proyecto dos]**
-<br>
+Descripción corta de qué resuelve este proyecto y por qué es interesante o distinto.
+
+`Next.js` `TypeScript` `Postgres`　[![view_source](https://img.shields.io/badge/-view__source-1a1a1a?style=flat-square&logoColor=c7c8ca)](#)
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=232426&height=1" width="100%"/>
+
+**[ 02 ]  🔧Nombre del proyecto dos**
+
 Otra línea explicando el problema que ataca o el reto técnico que tuvo.
-<br>
-`Python` `FastAPI` `Docker` · [ver código →](#)
 
-</td></tr>
-<tr><td width="40"><b>03</b></td>
-<td>
+`Python` `FastAPI` `Docker`　[![view_source](https://img.shields.io/badge/-view__source-1a1a1a?style=flat-square&logoColor=c7c8ca)](#)
 
-**🔧[Nombre del proyecto tres]**
-<br>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=232426&height=1" width="100%"/>
+
+**[ 03 ]  🔧Nombre del proyecto tres**
+
 El proyecto que muestras primero cuando alguien pregunta qué haces.
-<br>
-`React` `Node.js` `Redis` · [ver código →](#)
 
-</td></tr>
-</table>
+`React` `Node.js` `Redis`　[![view_source](https://img.shields.io/badge/-view__source-1a1a1a?style=flat-square&logoColor=c7c8ca)](#)
 
 <br>
 
-<!-- ============ 06 · STATISTICS ============ -->
-### `06` statistics
+<img src="https://capsule-render.vercel.app/api?type=rect&color=6e6f73&height=2" width="100%"/>
+
+### ▪ Telemetry
 
 <div align="center">
 
@@ -133,8 +181,9 @@ El proyecto que muestras primero cuando alguien pregunta qué haces.
 
 <br>
 
-<!-- ============ 07 · CONTRIBUTION MAP ============ -->
-### `07` Commit Timeline
+<img src="https://capsule-render.vercel.app/api?type=rect&color=6e6f73&height=2" width="100%"/>
+
+### ▪ Commit Timeline
 
 <div align="center">
 
@@ -148,15 +197,16 @@ El proyecto que muestras primero cuando alguien pregunta qué haces.
 
 <br>
 
-<!-- ============ 08 · SYSTEM STATUS ============ -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=6e6f73&height=2" width="100%"/>
+
 <div align="center">
 
-`08` system_status
+### ▪ System Status
 
 ![Status](https://img.shields.io/badge/status-online-0c0d0e?style=flat-square&logoColor=c7c8ca)
 ![Visitors](https://komarev.com/ghpvc/?username=Mijael-Lujan-Gandarillas&color=2b2b2b&style=flat-square&label=visitors)
 
-<sub>end_of_transmission_ · mijael space</sub>
+<sub>end_of_transmission_</sub>
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=90&section=footer" width="100%"/>
 
@@ -164,30 +214,8 @@ El proyecto que muestras primero cuando alguien pregunta qué haces.
 
 <!--
   ═══════════════════════════════════════════════════════════
-  📖 NOTAS DE LA VERSIÓN GITHUB vs. EL MOCKUP HTML
-  ═══════════════════════════════════════════════════════════
-
-  QUÉ SE MANTIENE IGUAL:
-  - Boot log tipeando de verdad (readme-typing-svg SÍ anima en GitHub).
-  - Escala de grises exacta en badges, íconos y stats (usando los
-    parámetros de color de cada servicio, no un filtro CSS).
-  - Estructura por secciones numeradas 02-08.
-
-  QUÉ NO SE PUEDE REPLICAR TAL CUAL:
-  - El canvas de estrellas parpadeando + estrellas fugaces (requiere JS).
-  - El radar girando en el hero (requeriría un SVG animado custom).
-
-  ALTERNATIVA "FASE 2" SI QUIERES ESE NIVEL DE DETALLE:
-  Se puede generar un SVG propio (no un <canvas>, sino un <svg> con
-  animación SMIL/CSS nativa) que simule el starfield y el radar, y
-  GitHub SÍ renderiza ese tipo de animación porque es la misma técnica
-  que usa "readme-typing-svg". Es más trabajo (hay que generarlo,
-  subirlo al repo y referenciarlo), pero es 100% viable si lo quieres.
-
-  SOBRE EL SNAKE (sección 07):
-  Necesita que actives un GitHub Action en tu repo Mijael-Lujan-Gandarillas/Mijael-Lujan-Gandarillas
-  (Settings > Actions > General > "Read and write permissions") y que
-  agregues el workflow de Platane/snk. Puedo generarte ese archivo
-  cuando quieras.
+  Pendiente de tu parte: reemplazar 🔧Nombre del proyecto X
+  y tu@email.com por datos reales. Todo lo demás ya usa tu
+  usuario real (Mijael-Lujan-Gandarillas).
   ═══════════════════════════════════════════════════════════
 -->

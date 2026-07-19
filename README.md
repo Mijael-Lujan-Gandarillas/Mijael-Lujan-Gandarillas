@@ -139,7 +139,7 @@ Café > Sueño
 
 ### ▪ Transmissions
 
-<code>git commit -m "minor changes, nothing important . . ."</code>
+<code>git commit -m "last commit?"</code>
 
 <br>
 

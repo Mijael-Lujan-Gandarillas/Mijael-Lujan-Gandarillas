@@ -6,7 +6,7 @@
 
 <!--<div align="center">-->
 
-<img src=".github/src/1.png" width="480"/>
+<img src=".github/src/1.png" width="100%"/>
 
 <br><br>
 

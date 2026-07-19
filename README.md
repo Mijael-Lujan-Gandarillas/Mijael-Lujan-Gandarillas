@@ -6,13 +6,7 @@
 
 <div align="center">
 
-<img src=".github/src/1.png" width="480"/>
-
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=140&section=header&text=SIGNAL%20ACQUIRED&fontSize=36&fontColor=c7c8ca&animation=fadeIn&fontAlignY=55" width="100%"/>
-
-<img src="https://readme-typing-svg.demolab.com/?lines=%3E+initiating+deep-space+profile...;%3E+calibrating+grayscale+filters...;%3E+signal+acquired_&font=JetBrains+Mono&center=true&width=520&height=70&color=8b8c8f&vCenter=true&size=15&pause=1200" alt="boot sequence" />
+<img src=".github/src/1.png" width="100%"/>
 
 </div>
 

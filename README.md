@@ -140,7 +140,7 @@ Café > Sueño
 
 ### ▪ Transmissions
 
-<sub>proyectos de los que estoy orgulloso</sub>
+
 
 <br>
 

@@ -133,17 +133,17 @@ Café > Sueño
 <br>
 <br>
 **[ 01 ]  Gallery**<br>
-Galería virtual dedicada a Van Gogh: cada lienzo con su propio espacio para respirar, sin distracciones ni ruido visual <br><br>
+Sitio web responsive inspirado en las obras de Vincent van Gogh, con una galería visual e interactiva desarrollada con JavaScript <br><br>
 `HTML` `CSS` `JavaScript`　<br><br><a href="https://github.com/Mijael-Lujan-Gandarillas/Gallery" target="_blank"><img src="https://img.shields.io/badge/-view__source-1a1a1a?style=flat-square&logoColor=c7c8ca"/></a> <a href="https://mijael-lujan-gandarillas.github.io/Gallery/" target="_blank"><img src="https://img.shields.io/badge/-live__demo-1a1a1a?style=flat-square&logoColor=c7c8ca"/></a>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=232426&height=1" width="100%"/>
 
 **[ 02 ]  Wanderlust**<br>
-Landing para una agencia que arma tus viajes de punta a punta, pensada para convertir curiosidad en reserva <br><br>
+Landing promocional para una agencia de viajes, con un diseño minimalista y layout ordenado <br><br>
 `HTML` `CSS` `JavaScript`　<br><br><a href="https://github.com/Mijael-Lujan-Gandarillas/Wanderlust" target="_blank"><img src="https://img.shields.io/badge/-view__source-1a1a1a?style=flat-square&logoColor=c7c8ca"/></a> <a href="https://mijael-lujan-gandarillas.github.io/Wanderlust/" target="_blank"><img src="https://img.shields.io/badge/-live__demo-1a1a1a?style=flat-square&logoColor=c7c8ca"/></a>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=232426&height=1" width="100%"/>
 
 **[ 03 ]  MonoForm Homes**<br>
-Recreación pixel-perfect de una constructora inglesa brutalista: líneas duras, tipografía sobria, cero adornos innecesarios <br><br>
+Página web para una constructora, con una interfaz moderna y una paleta de tonos oscuros, diseño responsive y una estructura orientada a la presentación de la marca <br><br>
 `HTML` `CSS` `JavaScript`　<br><br><a href="https://github.com/Mijael-Lujan-Gandarillas/MonoForm-Homes" target="_blank"><img src="https://img.shields.io/badge/-view__source-1a1a1a?style=flat-square&logoColor=c7c8ca"/></a> <a href="https://mijael-lujan-gandarillas.github.io/MonoForm-Homes/" target="_blank"><img src="https://img.shields.io/badge/-live__demo-1a1a1a?style=flat-square&logoColor=c7c8ca"/></a>
 
 <br>

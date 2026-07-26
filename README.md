@@ -130,7 +130,8 @@ Café > Sueño
 ### ▪ Projects
 <code>git commit -m "last commit?"</code>
 <br>
-
+<br>
+<br>
 **[ 01 ]  Gallery**
 Galería virtual dedicada a Van Gogh: cada lienzo con su propio espacio para respirar, sin distracciones ni ruido visual. <br><br>
 `HTML` `CSS` `JavaScript`　<br><br>[![view_source](https://img.shields.io/badge/-view__source-1a1a1a?style=flat-square&logoColor=c7c8ca)](https://github.com/Mijael-Lujan-Gandarillas/Gallery) [![live_demo](https://img.shields.io/badge/-live__demo-1a1a1a?style=flat-square&logoColor=c7c8ca)](https://mijael-lujan-gandarillas.github.io/Gallery/)

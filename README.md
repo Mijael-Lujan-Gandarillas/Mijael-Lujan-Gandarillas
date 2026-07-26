@@ -1,9 +1,3 @@
-<!--
-  ═══════════════════════════════════════════════════════════
-  MIJAEL SPACE — README de perfil (v2, grayscale, sin nombre quemado)
-  ═══════════════════════════════════════════════════════════
--->
-
 <div align="center">
 
 <img src=".github/src/2.png" width="100%"/>
@@ -19,9 +13,7 @@
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-0c0d0e?style=for-the-badge&logo=github&logoColor=c7c8ca)](https://github.com/Mijael-Lujan-Gandarillas)
-[![Twitter](https://img.shields.io/badge/Twitter-0c0d0e?style=for-the-badge&logo=x&logoColor=c7c8ca)](https://twitter.com/Mijael-Lujan-Gandarillas)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0c0d0e?style=for-the-badge&logo=linkedin&logoColor=c7c8ca)](https://linkedin.com/in/Mijael-Lujan-Gandarillas)
-[![Mail](https://img.shields.io/badge/Mail-0c0d0e?style=for-the-badge&logo=gmail&logoColor=c7c8ca)](mailto:tu@email.com)
+[![Mail](https://img.shields.io/badge/Mail-0c0d0e?style=for-the-badge&logo=gmail&logoColor=c7c8ca)](mailto:mijaelujan@gmail.com)
 
 </div>
 
@@ -135,34 +127,23 @@ Café > Sueño
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=6e6f73&height=2" width="100%"/>
 
-### ▪ Transmissions
-
+### ▪ Projects
 <code>git commit -m "last commit?"</code>
-
-
 <br>
 
-**[ 01 ]  🔧Nombre del proyecto uno**
-
-Descripción corta de qué resuelve este proyecto y por qué es interesante o distinto.
-
-`Next.js` `TypeScript` `Postgres`　[![view_source](https://img.shields.io/badge/-view__source-1a1a1a?style=flat-square&logoColor=c7c8ca)](#)
-
+**[ 01 ]  Gallery**
+Galería virtual dedicada a Van Gogh: cada lienzo con su propio espacio para respirar, sin distracciones ni ruido visual.
+`HTML` `CSS` `JavaScript`　[![view_source](https://img.shields.io/badge/-view__source-1a1a1a?style=flat-square&logoColor=c7c8ca)](https://github.com/Mijael-Lujan-Gandarillas/Gallery) [![live_demo](https://img.shields.io/badge/-live__demo-1a1a1a?style=flat-square&logoColor=c7c8ca)](https://mijael-lujan-gandarillas.github.io/Gallery/)
 <img src="https://capsule-render.vercel.app/api?type=rect&color=232426&height=1" width="100%"/>
 
-**[ 02 ]  🔧Nombre del proyecto dos**
-
-Otra línea explicando el problema que ataca o el reto técnico que tuvo.
-
-`Python` `FastAPI` `Docker`　[![view_source](https://img.shields.io/badge/-view__source-1a1a1a?style=flat-square&logoColor=c7c8ca)](#)
-
+**[ 02 ]  Wanderlust**
+Landing para una agencia que arma tus viajes de punta a punta, pensada para convertir curiosidad en reserva.
+`HTML` `CSS` `JavaScript`　[![view_source](https://img.shields.io/badge/-view__source-1a1a1a?style=flat-square&logoColor=c7c8ca)](https://github.com/Mijael-Lujan-Gandarillas/Wanderlust) [![live_demo](https://img.shields.io/badge/-live__demo-1a1a1a?style=flat-square&logoColor=c7c8ca)](https://mijael-lujan-gandarillas.github.io/Wanderlust/)
 <img src="https://capsule-render.vercel.app/api?type=rect&color=232426&height=1" width="100%"/>
 
-**[ 03 ]  🔧Nombre del proyecto tres**
-
-El proyecto que muestras primero cuando alguien pregunta qué haces.
-
-`React` `Node.js` `Redis`　[![view_source](https://img.shields.io/badge/-view__source-1a1a1a?style=flat-square&logoColor=c7c8ca)](#)
+**[ 03 ]  MonoForm Homes**
+Recreación pixel-perfect de una constructora inglesa brutalista: líneas duras, tipografía sobria, cero adornos innecesarios.
+`HTML` `CSS` `JavaScript`　[![view_source](https://img.shields.io/badge/-view__source-1a1a1a?style=flat-square&logoColor=c7c8ca)](https://github.com/Mijael-Lujan-Gandarillas/MonoForm-Homes) [![live_demo](https://img.shields.io/badge/-live__demo-1a1a1a?style=flat-square&logoColor=c7c8ca)](https://mijael-lujan-gandarillas.github.io/MonoForm-Homes/)
 
 <br>
 
@@ -213,11 +194,3 @@ El proyecto que muestras primero cuando alguien pregunta qué haces.
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=90&section=footer" width="100%"/>
 
 </div>
-
-<!--
-  ═══════════════════════════════════════════════════════════
-  Pendiente de tu parte: reemplazar 🔧Nombre del proyecto X
-  y tu@email.com por datos reales. Todo lo demás ya usa tu
-  usuario real (Mijael-Lujan-Gandarillas).
-  ═══════════════════════════════════════════════════════════
--->
